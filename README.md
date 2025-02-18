@@ -3,7 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Movie App using Kotlin</b>
-  - <a href=’https://github.com/AdrianVasquez22/MovieBuffs.git’ >Movie List App</a>
+  - <a href="https://github.com/AdrianVasquez22/MovieBuffs.git">Movie List App</a>
 - <b>C# (.NET Desktop Applications)</b>
   - [Baseball Stats Service)][(https://github.com/AdrianVasquez22/Final-Project.git)]
 - <b>C# (Mortgage Calculator using Kotlin)</b>
