@@ -1,4 +1,4 @@
-<h1>Hello, I'm Adrian <br/><a href="https://github.com/AdrianVasquez22">Computer Information Systems Major</a> and <a href="www.linkedin.com/in/adrian-vasquez-student-technology-specialist">Web Designer/Programmer</a></h1>
+<h1>Hello, I'm Adrian <br/><a href="https://github.com/AdrianVasquez22">Computer Information Systems Major</a> and <a href="https://github.com/AdrianVasquez22/MovieBuffs.git">Web Designer/Programmer</a></h1>
 
 <h2>Software Development Projects:</h2>
 
