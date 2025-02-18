@@ -17,7 +17,7 @@
 <h2> I’m currently learning ...</h2>[
         <p>C#, JavaScript, Node, and other programming languages that are used by several tech companies</p>
 
-<h2> I’m looking to collabor](https://github.com/AdrianVasquez22/Final-Project)ate on ...</h2>
+<h2> I’m looking to collaborate on ...</h2>
         <p> New software that can be used by Major League Baseball</p>
 
 <h2> I’m looking for help with ...</h2>
