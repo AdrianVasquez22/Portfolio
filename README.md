@@ -31,7 +31,7 @@
 
 [<img align="left" alt="AdrianVasquez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/adrian-vasquez-student-technology-specialist
+[linkedin]: https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadrian-vasquez-student-technology-specialist%2F&data=05%7C02%7Cadvasquez2%40buffs.wtamu.edu%7C9d23bf7562ae49765f7008dd4d347a8b%7C9cf5074d3cb544a3a59cd4e900450029%7C0%7C0%7C638751609992922959%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rY4jGDBDlmeekEeBQpXuEqaPMQlIVZybtsaREZfeP5U%3D&reserved=0
 
 
 
