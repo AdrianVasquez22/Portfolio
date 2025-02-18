@@ -1,9 +1,9 @@
-<h1>Hello, I'm Adrian <br/><a href="https://github.com/AdrianVasquez22">Computer Information Systems Major</a> and <a href="www.linkedin.com/in/adrian-vasquez-student-technology-specialist4">Web Designer/Programmer</a></h1>
+<h1>Hello, I'm Adrian <br/><a href="https://github.com/AdrianVasquez22">Computer Information Systems Major</a> and <a href="www.linkedin.com/in/adrian-vasquez-student-technology-specialist">Web Designer/Programmer</a></h1>
 
 <h2>Software Development Projects:</h2>
 
 - <b>Movie App using Kotlin</b>
-  - [Movie List App][(https://github.com/AdrianVasquez22/MovieBuffs.git)]</b>
+  - <a href=’https://github.com/AdrianVasquez22/MovieBuffs.git’ >Movie List App</a>
 - <b>C# (.NET Desktop Applications)</b>
   - [Baseball Stats Service)][(https://github.com/AdrianVasquez22/Final-Project.git)]
 - <b>C# (Mortgage Calculator using Kotlin)</b>
