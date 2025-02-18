@@ -5,19 +5,19 @@
 - <b>Movie App using Kotlin</b>
   - <a href="https://github.com/AdrianVasquez22/MovieBuffs.git">Movie List App</a>
 - <b>C# (.NET Desktop Applications)</b>
-  - [Baseball Stats Service)][(https://github.com/AdrianVasquez22/Final-Project.git)]
+  - <a href="https://github.com/AdrianVasquez22/Final-Project">Baseball Stat Service</a>
 - <b>C# (Mortgage Calculator using Kotlin)</b>
-  - [Mortgage Calculator][(https://github.com/AdrianVasquez22/Mortgage_Calculator.git)]
+  - <a href="https://github.com/AdrianVasquez22/Mortgage_Calculator">Mortgage Calculator</a>
 - <b>Business Card designed in Kotlin
-  - [Business Card][(https://github.com/AdrianVasquez22/Business_Card.git)]
+  - <a href="https://github.com/AdrianVasquez22/Business_Card">Business Card</a>
   
 <h2> I’m currently working on ...</h2>
         <p>Finishing my degree to gain the necessary knowledge for a future endeavor is software development</p>
 
-<h2> I’m currently learning ...</h2>
+<h2> I’m currently learning ...</h2>[
         <p>C#, JavaScript, Node, and other programming languages that are used by several tech companies</p>
 
-<h2> I’m looking to collaborate on ...</h2>
+<h2> I’m looking to collabor](https://github.com/AdrianVasquez22/Final-Project)ate on ...</h2>
         <p> New software that can be used by Major League Baseball</p>
 
 <h2> I’m looking for help with ...</h2>
