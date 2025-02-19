@@ -12,16 +12,16 @@
   - <a href="https://github.com/AdrianVasquez22/Business_Card">Business Card</a>
   
 <h2> I’m currently working on ...</h2>
-        <p>Finishing my degree to gain the necessary knowledge for a future endeavor is software development</p>
+        <p>Finishing my degree to gain the necessary knowledge for a future endeavor is software development.</p>
 
-<h2> I’m currently learning ...</h2>[
-        <p>C#, JavaScript, Node, and other programming languages that are used by several tech companies</p>
+<h2> I’m currently learning ...</h2>
+        <p>C#, JavaScript, Node, and other programming languages that are used by several tech companies.</p>
 
 <h2> I’m looking to collaborate on ...</h2>
-        <p> New software that can be used by Major League Baseball</p>
+        <p> New software that can be used by Major League Baseball.</p>
 
 <h2> I’m looking for help with ...</h2>
-        <p>Building my knowledge in software that MLB uses to build my specialty around their requirements</p>
+        <p>Building my knowledge in software that MLB uses to build my specialty around their requirements.</p>
         
 <h2> Ask me about ...</h2>
         <p>Projects in Kotlin and C# that I have been designing since the beginning of college.</p>
