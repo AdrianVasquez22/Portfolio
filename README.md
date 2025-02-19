@@ -2,13 +2,13 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>Movie App using Kotlin</b>
+- <b>Movie App using Kotlin - A movie description application designed to show the newest movies being released. Designed to give the user a detailed description, rating, and introduction to the selected film.</b>
   - <a href="https://github.com/AdrianVasquez22/MovieBuffs.git">Movie List App</a>
-- <b>C# (.NET Desktop Applications)</b>
+- <b>C# (.NET Desktop Applications) - A system designed to show the stats of the top-performing players in Major League Baseball. The webpage is designed with a search bar that can single out a desired player for research purposes.</b>
   - <a href="https://github.com/AdrianVasquez22/Final-Project">Baseball Stat Service</a>
-- <b>C# (Mortgage Calculator using Kotlin)</b>
+- <b>C# (Mortgage Calculator using Kotlin) - An application designed to calculate the amount of a total mortgage using a simple algorithm.</b>
   - <a href="https://github.com/AdrianVasquez22/Mortgage_Calculator">Mortgage Calculator</a>
-- <b>Business Card designed in Kotlin
+- <b>Business Card designed in Kotlin -A webpage intended as an introduction to the creator. The application has contact information available for those looking to communicate with me.</b>
   - <a href="https://github.com/AdrianVasquez22/Business_Card">Business Card</a>
   
 <h2> I’m currently working on ...</h2>
